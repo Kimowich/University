@@ -1,0 +1,21 @@
+set a 2345
+Code is loaded
+set b 0
+Bad: 0
+set b 123
+Bad:
+set b
+Code b is cleared
+get a
+Code is: 2345
+get b
+Code is: 0000
+
+set b 1211
+Code is loaded
+1211
+Locked!
+1111
+Code wrong!
+1211
+Unlocked!
